@@ -1,6 +1,6 @@
 {
 	"name": "get-urls",
-	"version": "10.0.1",
+	"version": "10.1.1",
 	"description": "Get all URLs in a string",
 	"license": "MIT",
 	"repository": "sindresorhus/get-urls",
@@ -31,7 +31,7 @@
 		"string"
 	],
 	"dependencies": {
-		"normalize-url": "^5.1.0",
+		"normalize-url": "^7.0.2",
 		"url-regex-safe": "^2.0.2"
 	},
 	"devDependencies": {
